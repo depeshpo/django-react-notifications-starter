@@ -1,0 +1,31 @@
+.notification-card {
+    min-width: 350px;
+}
+
+.notification-card-body {
+    padding: 0px !important ;
+}
+
+.notifications-item {
+    padding: 0.9rem;
+
+}
+
+.notifications-item:hover {
+    cursor: pointer;
+    transition-delay: 0.25;
+    background-color: #F7F7F7;
+}
+
+.notification-read {
+    color: #5a6570
+}
+
+.notification-unread {
+    color: #5a6570;
+    background-color: #F1F1F1;
+}
+
+.notification-divider {
+    margin: 0px;
+}
